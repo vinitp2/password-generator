@@ -20,5 +20,9 @@ select their choices again with a message stating that they have to select at le
 
 Once that is done, the randomly generated password is displayed on the textbox in the middle of the page.
 
+The following is a picture of a homepage for the application :
+
+<img src = "Assets/03-javascript-homework-demo.png"/>
+
 ## License
 N/A
